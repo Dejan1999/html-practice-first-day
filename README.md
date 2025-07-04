@@ -1,44 +1,69 @@
-# HTML Practice - First Day
+# 🚀 HTML Practice – Week 01
 
-👋 Welcome to my first frontend learning project!  
-This repository contains my initial HTML exercises — the beginning of my frontend development journey.
+Welcome to my first HTML learning project!  
+This repository contains all exercises, tasks, and assets created while learning the fundamentals of HTML.
 
-## 🔗 Live Demo
-
-Check the website live here:  
-➡️ [https://dejan1999.github.io/html-practice-first-day/](https://dejan1999.github.io/html-practice-first-day/)
-
-## 📑 Project Description
-
-This project includes basic HTML practice:  
-- Basic page structure (`<html>`, `<head>`, `<body>`)  
-- Headings, paragraphs, and text formatting  
-- Lists (`ul`, `ol`, `dl`)  
-- Tables  
-- Links and images  
-- Forms and input fields  
-- Semantic HTML elements  
+---
 
 ## 📁 Project Structure
-html-practice-first-day/
-│
-├── index.html
-└── assets/ (images and other files)
+html-mb/
+├── index.html → Main file with all HTML examples
+├── homework-index.html → Homework tasks based on course instructions
+├── assets/ → Folder with all images used
+└── progress-tracker/ → Weekly learning logs 
+## 🧠 What I’ve Learned
 
-## 🚀 Technologies Used
+### ✅ `index.html` – Practice Topics Covered:
+- ✅ Basic HTML structure
+- ✅ Headings & paragraphs
+- ✅ Text formatting (bold, italic, sub/sup, pre/code)
+- ✅ Lists (unordered, ordered, definition)
+- ✅ Tables
+- ✅ Forms (input, textarea, select, radio)
+- ✅ Links and images
+- ✅ Embedding YouTube videos
+- ✅ Semantic elements (`div`, `span`)
+- ✅ HTML attributes
 
-- HTML5
+---
 
-## 📅 Project Status
+### 📘 `homework-index.html` – Assignments:
+- 📝 **Homework 1:** Headings, paragraphs, lists, image linking
+- 📝 **Homework 2:** Table + form with labels, inputs, textarea, select
 
-✅ Completed as part of my first day learning HTML.  
-**Next steps:**  
-- Deepen HTML knowledge  
-- Learn Git commands and Git Flow  
-- Move on to CSS  
-- Start building a real portfolio  
+---
 
-## 🤝 Author
+### 🖼️ `assets/` – Images Used:
+- Facebook logo  
+- MDN HTML logo (homework)
 
-Dejan Karakašević  
-GitHub ➡️ [@Dejan1999](https://github.com/Dejan1999)
+---
+
+## 📅 Learning Tracker
+
+Progress logs are stored in the `progress-tracker/` folder.  
+You can view my daily study updates in files like:
+
+- `WEEK-01_PROGRESS.md`
+
+---
+
+## 🧱 What’s Next?
+
+- 📚 Learn Git, GitHub, and GitFlow  
+- 🎨 Start CSS basics (selectors, colors, layout)  
+- 🌐 Deploy projects via GitHub Pages  
+- 📈 Update this repo with every new skill
+
+---
+
+## ✍️ Author
+
+**Dejan Karakašević**  
+💻 Frontend Developer in training  
+📍 Serbia  
+
+> Learning every day. Committing every step.
+
+---
+
